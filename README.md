@@ -3,8 +3,10 @@ qwerty
 Checkidfghnng git remote and collaboration
 bcjsdabdk.dc
 dfghj
+uigbkj
+Checking git remote and collaboration
 
-qwerthyui
+werthyui
 asdfghjk
 
 First change
