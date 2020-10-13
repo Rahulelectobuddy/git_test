@@ -1,6 +1,6 @@
 # git_test
 qwerty
-Checking git remote and collaboration
+Checkidfghnng git remote and collaboration
 
 qwerthyui
 asdfghjk
